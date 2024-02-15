@@ -1,4 +1,4 @@
-# Solar Tracking with STM32l152RB
+# Solar Tracking with STM32L152RB
 
 ## Requirement
 Create a solar tracking system for solar panels using the STM32L152RB board as the controller
