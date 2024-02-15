@@ -53,3 +53,6 @@ Create a solar tracking system for solar panels using the STM32L152RB board as t
 
 ### Flowchart
 ![flowchart](https://github.com/PotatoBooks/2565-CPE311-PGBM/blob/main/Solar%20Tracking%20Flowchart.jpg)
+
+### Demo Video
+![video](https://github.com/Younive/Solar-Tracking-System/blob/main/media/demo_video.mp4)
