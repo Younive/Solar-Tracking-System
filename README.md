@@ -1,7 +1,7 @@
 # Solar Tracking with STM32l152RB
 
 ## Requirement
-สร้างระบบ Solar tracking ให้กับแผงโซลาร์เซลล์ โดยใช้บอร์ด STM32L152RB เป็นตัวควบคุม
+Create a solar tracking system for solar panels using the STM32L152RB board as the controller
 
 ## Gantt Chart
 ![gantt-chart](https://github.com/PotatoBooks/2565-CPE311-PGBM/blob/main/gantt-chart.png)
